@@ -67,7 +67,7 @@ RDB(Snapshot) : 특정 시점 기준으로 메모리 내용을 통째로 저장 
 
 Redis는 기본적으로 메모리 기반 데이터 구조 서버로 동작하며 필요 시 디스크에 영속화할 수 있음<br>
 
-![image]([url](https://github.com/seojaelynn04-lab/OPENSOURCE-Images/blob/main/image01.png))<br>
+![image](https://github.com/seojaelynn04-lab/OPENSOURCE-Images/blob/main/image01.png)<br>
 (간단한 구조 설명)<br>
 Client → Redis 서버에 명령 요청<br>
 Redis 서버 → 명령을 해석하고 메모리에 데이터를 저장·수정<br>
